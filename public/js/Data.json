@@ -1,0 +1,127 @@
+{
+   "Overview" :[
+        {
+            "id":1,
+            "head":"Overview",
+            "pa":"The Senior Graduation Project highlights an important milestone for the Bachelor's and Students of graduate projects on their journey to learn about their scientific testimony. The graduation project A requirement that students in all colleges must provide. The Graduation Project Management System (GPMS) will certainly perform these educational tasks"
+
+        }
+    ]
+    ,
+    "AboutUs":[
+        {
+            "id":0,
+            "src":"https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?h=350&auto=compress&cs=tinysrgb",
+            "name":"Eng Raya Azmi Odeh",
+            "txt":"Web Developer",
+            "link_1":"#",
+            "link_2":"#",
+            "link_3":"#"
+    },
+    {
+        "id":1,
+        "src":"https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?h=350&auto=compress&cs=tinysrgb",
+         "name":"Eng Azhar Atari",
+         "txt":"Web Developer",
+         "link_1":"#",
+         "link_2":"#",
+         "link_3":"#"
+    },
+    {
+        "id":2,
+        "src":"https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?h=350&auto=compress&cs=tinysrgb",
+        "name":"Eng Hanaa Sous",
+        "txt":"Web Developer",
+        "link_1":"#",
+        "link_2":"#",
+        "link_3":"#"
+    },
+    { "id":3,
+        "src":"https://images.pexels.com/photos/247599/pexels-photo-247599.jpeg?h=350&auto=compress&cs=tinysrgb",
+        "name":"Eng Farah Diab",
+        "txt":"Web Developer",
+        "link_1":"#",
+        "link_2":"#",
+        "link_3":"#"
+    }
+
+
+    ],
+ 
+    "Slider":[
+    {
+        "id":0,
+      "className_1":"d-block w-100",
+      "src_1":"./Images/startup-593327_1920.jpg",
+      "alt_1":"First slide"
+    },
+    {   "id":1,
+        "className_1":"d-block w-100",
+        "src_1":"./Images/student-849825_1920.jpg",
+        "alt_1":"Second slide"
+    },
+    {
+        "id":2,
+        "className_1":"d-block w-100",
+        "src_1":"./Images/work-731198_1920.jpg",
+        "alt_1":"Third slide"
+    },
+    {
+        "id":3,
+        "className_1":"d-block w-100",
+        "src_1":"/Images/computer-1245714_1920.jpg",
+        "alt_1":"Third slide"
+    }
+],
+
+"Projects":[
+    
+    {
+        "id":0,
+        "src_left":"/Images/Web.jpg",
+        "h3_left":"WEB Projects",
+        "src_right":"/Images/AI.jpg",
+        "h3_right":"Artificial intelligence"
+    },
+
+    {
+        "id":1,
+        "src_left":"/Images/Android.jpg",
+        "h3_left":"Android",
+        "src_right":"/Images/ML.jpg",
+        "h3_right":"Image processing"
+    }
+],
+    "Login_Sign_Up" :[
+        {
+            "id":0,
+            "icon":"fas fa-user",
+            "in_type":"text",
+            "in_placeholder":"Username"
+        },
+ 
+        {
+         "id":1,
+         "icon":"fas fa-envelope",
+         "in_type":"email",
+         "in_placeholder":"Email"
+     },
+     {
+ 
+         "id":2,
+         "icon":"fas fa-lock",
+         "in_type":"password",
+         "in_placeholder":"Password"
+     },
+ 
+     {
+         "id":3,
+         "icon":"fas fa-lock",
+         "in_type":"password",
+         "in_placeholder":"re-Password"
+     }
+    
+    
+
+]
+}
